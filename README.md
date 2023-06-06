@@ -1,11 +1,10 @@
-# 超市信息管理系统开发文档
+# 超市信息管理系统开发
 
 ## 一、环境及技术
 
 1、环境
 
-- Qt Creator 5.3
-- ODBC Data Sources (32-bit)
+- Qt Creator 6.5.1
 - mysql-8.0.28-winx64
 - Navicat 15 for MySQL
 
