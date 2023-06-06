@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/login.png</file>
+        <file>image/close.png</file>
+        <file>ion/add.png</file>
+        <file>ion/close.png</file>
+        <file>ion/minus-bold.png</file>
+        <file>ion/order.png</file>
+        <file>ion/service.png</file>
+        <file>ion/log_in.png</file>
+        <file>ion/product.png</file>
+    </qresource>
+</RCC>
